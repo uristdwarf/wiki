@@ -1,5 +1,4 @@
 extends:
-  - requarks
   - plugin:vue/strongly-recommended
   - plugin:cypress/recommended
 env:
